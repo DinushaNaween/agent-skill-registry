@@ -1,7 +1,7 @@
 # AI Agent Skill Registry
 
 > Central capability index for autonomous AI agents and developers.
-> **Total Skills:** 76 | **Last Updated:** 2026-09-14
+> **Total Skills:** 102 | **Last Updated:** 2026-09-14
 
 ## How Agents Use This Registry
 
@@ -9,6 +9,184 @@
 2. **Match Triggers:** Scan the `Triggers` list below or query `registry.json`.
 3. **Selective Load:** Read only the matched skill file path into working context.
 4. **Execute:** Apply the specific insights, rules, and code patterns.
+
+---
+
+## Security Domain (`security`)
+
+### Access Control (2)
+
+#### Access Control Models (DAC, MAC, RBAC, ABAC)
+- **Path:** [`skills/security/access-control/access-control-models.md`](skills/security/access-control/access-control-models.md)
+- **Summary:** Implementation principles for Discretionary, Mandatory, Role-Based, and Attribute-Based Access Control.
+- **Triggers:** designing authorization systems or user permission schemas; implementing multi-tenant role-based access in web applications; auditing user privilege boundaries and privilege escalation risks
+- **Tags:** `security, access-control, rbac, abac, authorization`
+
+#### Operating System Security & Privilege Management
+- **Path:** [`skills/security/access-control/privilege-management.md`](skills/security/access-control/privilege-management.md)
+- **Summary:** Hardening OS privilege boundaries, sudoers configuration, UAC, and mitigating privilege escalation.
+- **Triggers:** configuring Linux sudoers or Windows User Account Control (UAC); running container processes or system daemons with restricted privileges; reviewing SUID/SGID binaries and Linux capability assignments
+- **Tags:** `security, privilege-management, linux, windows, sudo, hardening`
+
+### Ai Security (3)
+
+#### AI in Threat Detection & Behavioral Analytics
+- **Path:** [`skills/security/ai-security/ai-threat-detection.md`](skills/security/ai-security/ai-threat-detection.md)
+- **Summary:** Machine learning for security telemetry, UEBA anomaly detection, and reducing alert fatigue.
+- **Triggers:** evaluating or building AI/ML models for threat detection or SIEM; implementing User and Entity Behavior Analytics (UEBA); tuning security detection algorithms to reduce false positives
+- **Tags:** `security, ai, machine-learning, threat-detection, ueba, siem`
+
+#### AI-Powered Security Orchestration (SOAR)
+- **Path:** [`skills/security/ai-security/ai-security-orchestration-soar.md`](skills/security/ai-security/ai-security-orchestration-soar.md)
+- **Summary:** Automating incident triage, playbook execution, and threat containment with AI and SOAR platforms.
+- **Triggers:** designing automated incident response playbooks (SOAR); integrating AI agents into SOC analyst workflows; automating threat containment actions (IP blocking, credential revocation)
+- **Tags:** `security, soar, automation, ai, soc, playbooks`
+
+#### Adversarial Machine Learning & LLM Security
+- **Path:** [`skills/security/ai-security/adversarial-machine-learning.md`](skills/security/ai-security/adversarial-machine-learning.md)
+- **Summary:** Defending AI systems against prompt injection, model evasion, training data poisoning, and model extraction.
+- **Triggers:** building or deploying Large Language Model (LLM) applications or agents; hardening AI systems against prompt injection and jailbreaking; evaluating security risks in machine learning pipelines and training data
+- **Tags:** `security, ai, adversarial-ml, llm-security, prompt-injection, owasp-llm`
+
+### App Security (3)
+
+#### API Security & Token Protection
+- **Path:** [`skills/security/app-security/api-security-best-practices.md`](skills/security/app-security/api-security-best-practices.md)
+- **Summary:** Securing REST and GraphQL APIs using JWT validation, rate limiting, CORS, and schema verification.
+- **Triggers:** designing or implementing public or internal REST/GraphQL APIs; configuring JWT authentication, refresh tokens, and revocation; setting up API gateway rate limiting and CORS headers
+- **Tags:** `security, api, jwt, cors, rest, tokens`
+
+#### OWASP Top 10 Web Application Defenses
+- **Path:** [`skills/security/app-security/owasp-top-10-defenses.md`](skills/security/app-security/owasp-top-10-defenses.md)
+- **Summary:** Practical countermeasures against the most critical web application security risks.
+- **Triggers:** performing code reviews for web applications and APIs; designing input validation, authentication, and session handling; preparing web services for application penetration tests
+- **Tags:** `security, owasp, web-security, appsec, vulnerabilities`
+
+#### SQL Injection (SQLi) Prevention
+- **Path:** [`skills/security/app-security/sql-injection-prevention.md`](skills/security/app-security/sql-injection-prevention.md)
+- **Summary:** Eliminating SQL injection vulnerabilities using parameterized queries, prepared statements, and ORMs.
+- **Triggers:** writing database queries or data access layers; reviewing SQL query construction for untrusted inputs; auditing dynamic query builders and ORM raw query calls
+- **Tags:** `security, sqli, database, injection, appsec`
+
+### Cloud Security (1)
+
+#### Cloud Security Posture & IAM Hardening
+- **Path:** [`skills/security/cloud-security/cloud-security-fundamentals.md`](skills/security/cloud-security/cloud-security-fundamentals.md)
+- **Summary:** Shared Responsibility Model, least-privilege IAM policies, cloud storage security, and CSPM baselines.
+- **Triggers:** architecting cloud infrastructure (AWS, Azure, GCP); configuring cloud IAM roles, bucket policies, and security groups; auditing cloud misconfigurations and public asset exposures
+- **Tags:** `security, cloud, aws, azure, iam, s3, cspm`
+
+### Cryptography (3)
+
+#### Cryptographic Hashing & Data Integrity
+- **Path:** [`skills/security/cryptography/hashing-and-integrity.md`](skills/security/cryptography/hashing-and-integrity.md)
+- **Summary:** Secure hashing with SHA-256/SHA-3, collision attack defenses, and salted password storage with Argon2/bcrypt.
+- **Triggers:** storing user passwords or credentials in a database; verifying software download integrity or file tampering; implementing HMAC signatures for API authentication
+- **Tags:** `security, cryptography, hashing, passwords, argon2, sha256`
+
+#### Digital Signatures & Public Key Infrastructure (PKI)
+- **Path:** [`skills/security/cryptography/digital-signatures-and-pki.md`](skills/security/cryptography/digital-signatures-and-pki.md)
+- **Summary:** Non-repudiation, X.509 certificate validation, Certificate Authorities, and certificate pinning.
+- **Triggers:** configuring TLS/SSL certificates and automated renewal (Let's Encrypt); implementing digital document or code signing; enforcing mutual TLS (mTLS) for microservices
+- **Tags:** `security, pki, digital-signatures, certificates, tls, x509`
+
+#### Symmetric vs Asymmetric Encryption
+- **Path:** [`skills/security/cryptography/symmetric-vs-asymmetric-encryption.md`](skills/security/cryptography/symmetric-vs-asymmetric-encryption.md)
+- **Summary:** Engineering guide for AES bulk encryption, RSA/ECC key exchange, and secure key management.
+- **Triggers:** choosing encryption algorithms for data at rest or in transit; implementing hybrid cryptosystems or key exchange protocols; designing secure key rotation and Hardware Security Module (HSM) integrations
+- **Tags:** `security, cryptography, encryption, aes, rsa, tls`
+
+### Fundamentals (7)
+
+#### CIA Triad Principles
+- **Path:** [`skills/security/fundamentals/cia-triad.md`](skills/security/fundamentals/cia-triad.md)
+- **Summary:** The cornerstone model balancing Confidentiality, Integrity, and Availability in software systems.
+- **Triggers:** evaluating security requirements for a new system or feature; conducting security risk assessments and compliance reviews; architecting data protection and disaster recovery strategies
+- **Tags:** `security, cia-triad, confidentiality, integrity, availability`
+
+#### Cyber Kill Chain & Attack Lifecycle
+- **Path:** [`skills/security/fundamentals/cyber-kill-chain.md`](skills/security/fundamentals/cyber-kill-chain.md)
+- **Summary:** Lockheed Martin 7-phase cyberattack lifecycle model and defensive intervention techniques.
+- **Triggers:** analyzing an ongoing or simulated security intrusion; designing detection rules and early warning alert triggers; modeling threat actor advancement through internal networks
+- **Tags:** `security, kill-chain, threat-intelligence, incident-response`
+
+#### Defense in Depth
+- **Path:** [`skills/security/fundamentals/defense-in-depth.md`](skills/security/fundamentals/defense-in-depth.md)
+- **Summary:** Multi-layered security strategy ensuring no single defensive failure leads to total system compromise.
+- **Triggers:** designing system infrastructure or application security architecture; reviewing single points of failure in security controls; auditing multi-tier security layers (network, host, app, data)
+- **Tags:** `security, defense-in-depth, layered-security, architecture`
+
+#### MITRE ATT&CK Framework Mapping
+- **Path:** [`skills/security/fundamentals/mitre-attck-framework.md`](skills/security/fundamentals/mitre-attck-framework.md)
+- **Summary:** Curated knowledge base of cyber adversary tactics, techniques, and procedures (TTPs).
+- **Triggers:** mapping defensive security monitoring to real adversary techniques; conducting threat modeling and red/blue team simulations; assessing security coverage gaps across SIEM detection rules
+- **Tags:** `security, mitre, attck, threat-detection, siem`
+
+#### Security Risk Assessment Methodology
+- **Path:** [`skills/security/fundamentals/risk-assessment-methodology.md`](skills/security/fundamentals/risk-assessment-methodology.md)
+- **Summary:** Quantitative and qualitative frameworks for identifying, evaluating, and prioritizing cybersecurity risks.
+- **Triggers:** evaluating security vulnerabilities and calculating risk scores; presenting security risk trade-offs to engineering leadership; prioritizing vulnerability remediation schedules (CVSS vs business impact)
+- **Tags:** `security, risk-assessment, cvss, governance`
+
+#### Threat Modeling & Actor Profiling
+- **Path:** [`skills/security/fundamentals/threat-modeling-and-actors.md`](skills/security/fundamentals/threat-modeling-and-actors.md)
+- **Summary:** Systematic identification of threat actors, capabilities, attack vectors, and high-value targets.
+- **Triggers:** conducting threat modeling for architecture design (STRIDE); evaluating adversary motivation (nation-state, cybercrime, insider); identifying critical digital assets and attack surface vectors
+- **Tags:** `security, threat-modeling, stride, threat-actors`
+
+#### Zero Trust Architecture
+- **Path:** [`skills/security/fundamentals/zero-trust-architecture.md`](skills/security/fundamentals/zero-trust-architecture.md)
+- **Summary:** Never trust, always verify: identity-based micro-segmented security architecture.
+- **Triggers:** designing cloud or enterprise network architecture; implementing identity and access management (IAM) or MFA; evaluating perimeter vs identity-based access controls
+- **Tags:** `security, zero-trust, architecture, iam, network`
+
+### Incident Response (3)
+
+#### Backup Strategies & Disaster Recovery (DR)
+- **Path:** [`skills/security/incident-response/backup-and-disaster-recovery.md`](skills/security/incident-response/backup-and-disaster-recovery.md)
+- **Summary:** The 3-2-1 backup rule, immutable backups against ransomware, and RPO/RTO engineering metrics.
+- **Triggers:** designing enterprise backup and disaster recovery architecture; defending against ransomware data destruction scenarios; establishing Recovery Point Objective (RPO) and Recovery Time Objective (RTO)
+- **Tags:** `security, backup, disaster-recovery, ransomware, rpo, rto`
+
+#### Bug Bounty & Responsible Vulnerability Disclosure
+- **Path:** [`skills/security/incident-response/bug-bounty-and-responsible-disclosure.md`](skills/security/incident-response/bug-bounty-and-responsible-disclosure.md)
+- **Summary:** Authoring security.txt, defining safe harbor scopes, vulnerability triage, and coordinating patches.
+- **Triggers:** establishing a Vulnerability Disclosure Policy (VDP) or bug bounty program; deploying a security.txt file (RFC 9116) for security researchers; triaging incoming external security vulnerability reports
+- **Tags:** `security, bug-bounty, vdp, responsible-disclosure, security-txt`
+
+#### Incident Response Lifecycle (NIST / SANS)
+- **Path:** [`skills/security/incident-response/incident-response-lifecycle.md`](skills/security/incident-response/incident-response-lifecycle.md)
+- **Summary:** 6-phase incident response methodology: Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned.
+- **Triggers:** handling an active security incident or breach alert; authoring incident response runbooks and escalation trees; conducting post-incident reviews (blameless post-mortems)
+- **Tags:** `security, incident-response, nist, sans, forensics`
+
+### Network Security (2)
+
+#### DDoS Mitigation Strategies & Resilience
+- **Path:** [`skills/security/network-security/ddos-mitigation-architecture.md`](skills/security/network-security/ddos-mitigation-architecture.md)
+- **Summary:** Architectural defenses against Volumetric, Protocol (SYN Flood), and Application-layer (HTTP Flood) DDoS attacks.
+- **Triggers:** architecting internet-facing systems against denial-of-service attacks; configuring edge rate limiting, Cloudflare, or AWS Shield; responding to unexpected web service availability degradation
+- **Tags:** `security, ddos, rate-limiting, cdn, availability`
+
+#### Network Security & Traffic Monitoring
+- **Path:** [`skills/security/network-security/network-security-monitoring.md`](skills/security/network-security/network-security-monitoring.md)
+- **Summary:** Network protocol analysis, IDS/IPS deployment (Suricata/Zeek), firewall architecture, and packet inspection.
+- **Triggers:** investigating suspicious network traffic or packet captures (PCAP); configuring Network Intrusion Detection Systems (NIDS) or firewalls; analyzing DNS, TCP/IP, or HTTP/TLS handshake anomalies
+- **Tags:** `security, network-security, ids, ips, wireshark, zeek, firewall`
+
+### System Hardening (2)
+
+#### System Hardening & Baseline Configuration
+- **Path:** [`skills/security/system-hardening/system-hardening-baseline.md`](skills/security/system-hardening/system-hardening-baseline.md)
+- **Summary:** Applying CIS Benchmarks, disabling unnecessary services, configuring OSSEC/auditd, and host firewalling.
+- **Triggers:** provisioning production virtual machines or golden OS images; applying Center for Internet Security (CIS) hardening benchmarks; configuring Linux auditd, systemd security, or Windows Group Policies
+- **Tags:** `security, hardening, cis-benchmarks, auditd, linux, baseline`
+
+#### Vulnerability Assessment & Prioritization
+- **Path:** [`skills/security/system-hardening/vulnerability-assessment-and-prioritization.md`](skills/security/system-hardening/vulnerability-assessment-and-prioritization.md)
+- **Summary:** Systematic scanning, CVSS 3.1/4.0 scoring, vulnerability validation, and SLA-driven remediation workflows.
+- **Triggers:** running automated vulnerability scans (Nessus, OpenVAS, Trivy); triaging CVE alerts and dependency security warnings; establishing vulnerability remediation SLAs and patch policies
+- **Tags:** `security, vulnerability-assessment, cve, cvss, patching`
 
 ---
 
