@@ -1,0 +1,2675 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-09-14 11:58:52",
+  "total_skills": 76,
+  "domains": [
+    "ui-ux"
+  ],
+  "skills": [
+    {
+      "id": "ui-ux.content.empty-states",
+      "name": "Empty States",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "content",
+      "summary": "Your empty state is your first impression. Most apps waste it.",
+      "triggers": [
+        "designing or building empty states components",
+        "reviewing UX/UI for empty states",
+        "implementing content pattern for empty states",
+        "your empty state is your first impression"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "content",
+        "empty",
+        "states"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.content.serial-position",
+        "ui-ux.content.microcopy",
+        "ui-ux.content.landing-page-skeleton"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/empty-states",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/content/empty-states.md"
+    },
+    {
+      "id": "ui-ux.content.landing-page-skeleton",
+      "name": "Landing Page Skeleton",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "content",
+      "summary": "Every landing page that converts follows the same 5-section skeleton.",
+      "triggers": [
+        "designing or building landing page skeleton components",
+        "reviewing UX/UI for landing page skeleton",
+        "implementing content pattern for landing page skeleton",
+        "every landing page that converts follows the same 5-section skeleton"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "content",
+        "landing",
+        "page",
+        "skeleton"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.content.empty-states",
+        "ui-ux.content.serial-position",
+        "ui-ux.content.microcopy"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/landing-page-skeleton",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-04-12",
+      "relative_path": "skills/ui-ux/content/landing-page-skeleton.md"
+    },
+    {
+      "id": "ui-ux.content.microcopy",
+      "name": "Microcopy",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "content",
+      "summary": "Same form. Different words. One converts.",
+      "triggers": [
+        "designing or building microcopy components",
+        "reviewing UX/UI for microcopy",
+        "implementing content pattern for microcopy",
+        "same form"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "content",
+        "microcopy"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.content.empty-states",
+        "ui-ux.content.serial-position",
+        "ui-ux.content.landing-page-skeleton"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/microcopy",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-26",
+      "relative_path": "skills/ui-ux/content/microcopy.md"
+    },
+    {
+      "id": "ui-ux.content.serial-position",
+      "name": "Serial Position",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "content",
+      "summary": "Strongest first, strongest last: people forget the middle",
+      "triggers": [
+        "designing or building serial position components",
+        "reviewing UX/UI for serial position",
+        "implementing content pattern for serial position",
+        "strongest first, strongest last: people forget the middle"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "content",
+        "serial",
+        "position"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.content.empty-states",
+        "ui-ux.content.microcopy",
+        "ui-ux.content.landing-page-skeleton"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/serial-position",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/content/serial-position.md"
+    },
+    {
+      "id": "ui-ux.feedback.doherty-threshold",
+      "name": "Doherty Threshold",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Cross 400ms and your user checks out. Perceived speed is a design choice.",
+      "triggers": [
+        "designing or building doherty threshold components",
+        "reviewing UX/UI for doherty threshold",
+        "implementing feedback pattern for doherty threshold",
+        "cross 400ms and your user checks out"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "doherty",
+        "threshold"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.error-states",
+        "ui-ux.feedback.loading-states-system",
+        "ui-ux.feedback.notification-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/doherty-threshold",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/feedback/doherty-threshold.md"
+    },
+    {
+      "id": "ui-ux.feedback.error-states",
+      "name": "Error States",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Same error. Better recovery.",
+      "triggers": [
+        "designing or building error states components",
+        "reviewing UX/UI for error states",
+        "implementing feedback pattern for error states",
+        "same error"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "error",
+        "states"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.doherty-threshold",
+        "ui-ux.feedback.loading-states-system",
+        "ui-ux.feedback.notification-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/error-states",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/feedback/error-states.md"
+    },
+    {
+      "id": "ui-ux.feedback.loading-states-system",
+      "name": "Loading States System",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Stop using skeletons for everything. Loading is a system, not a default.",
+      "triggers": [
+        "designing or building loading states system components",
+        "reviewing UX/UI for loading states system",
+        "implementing feedback pattern for loading states system",
+        "stop using skeletons for everything"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "loading",
+        "states",
+        "system"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.doherty-threshold",
+        "ui-ux.feedback.error-states",
+        "ui-ux.feedback.notification-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/loading-states-system",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/feedback/loading-states-system.md"
+    },
+    {
+      "id": "ui-ux.feedback.notification-system",
+      "name": "Notification System",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Notifications are a system. Pick the wrong surface and users tune out.",
+      "triggers": [
+        "designing or building notification system components",
+        "reviewing UX/UI for notification system",
+        "implementing feedback pattern for notification system",
+        "notifications are a system"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "notification",
+        "system"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.doherty-threshold",
+        "ui-ux.feedback.error-states",
+        "ui-ux.feedback.loading-states-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/notification-system",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/feedback/notification-system.md"
+    },
+    {
+      "id": "ui-ux.feedback.optimistic-ui",
+      "name": "Optimistic UI",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Click like. One waits. One feels instant.",
+      "triggers": [
+        "designing or building optimistic ui components",
+        "reviewing UX/UI for optimistic ui",
+        "implementing feedback pattern for optimistic ui",
+        "click like"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "optimistic"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.doherty-threshold",
+        "ui-ux.feedback.error-states",
+        "ui-ux.feedback.loading-states-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/optimistic-ui",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-26",
+      "relative_path": "skills/ui-ux/feedback/optimistic-ui.md"
+    },
+    {
+      "id": "ui-ux.feedback.skeleton-loading",
+      "name": "Skeleton Loading",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Your loading spinner is making the wait feel longer",
+      "triggers": [
+        "designing or building skeleton loading components",
+        "reviewing UX/UI for skeleton loading",
+        "implementing feedback pattern for skeleton loading",
+        "your loading spinner is making the wait feel longer"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "skeleton",
+        "loading"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.doherty-threshold",
+        "ui-ux.feedback.error-states",
+        "ui-ux.feedback.loading-states-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/skeleton-loading",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-15",
+      "relative_path": "skills/ui-ux/feedback/skeleton-loading.md"
+    },
+    {
+      "id": "ui-ux.feedback.toast-notifications",
+      "name": "Toast Notifications",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Toasts done right: five rules for notifications that inform without blocking.",
+      "triggers": [
+        "designing or building toast notifications components",
+        "reviewing UX/UI for toast notifications",
+        "implementing feedback pattern for toast notifications",
+        "toasts done right: five rules for notifications that inform without blocking"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "toast",
+        "notifications"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.doherty-threshold",
+        "ui-ux.feedback.error-states",
+        "ui-ux.feedback.loading-states-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/toast-notifications",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/feedback/toast-notifications.md"
+    },
+    {
+      "id": "ui-ux.feedback.undo-ux",
+      "name": "Undo UX",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Deleted. You have five seconds.",
+      "triggers": [
+        "designing or building undo ux components",
+        "reviewing UX/UI for undo ux",
+        "implementing feedback pattern for undo ux",
+        "deleted"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "undo"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.doherty-threshold",
+        "ui-ux.feedback.error-states",
+        "ui-ux.feedback.loading-states-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/undo-ux",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-03",
+      "relative_path": "skills/ui-ux/feedback/undo-ux.md"
+    },
+    {
+      "id": "ui-ux.feedback.zeigarnik-effect",
+      "name": "Zeigarnik Effect",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "feedback",
+      "summary": "Your brain forgets what's finished, and won't stop nagging about what's not.",
+      "triggers": [
+        "designing or building zeigarnik effect components",
+        "reviewing UX/UI for zeigarnik effect",
+        "implementing feedback pattern for zeigarnik effect",
+        "your brain forgets what's finished, and won't stop nagging about what's not"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "feedback",
+        "zeigarnik",
+        "effect"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.feedback.doherty-threshold",
+        "ui-ux.feedback.error-states",
+        "ui-ux.feedback.loading-states-system"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/zeigarnik-effect",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/feedback/zeigarnik-effect.md"
+    },
+    {
+      "id": "ui-ux.forms.autosave-ux",
+      "name": "Autosave",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Saved. It wasn't. Your wifi died mid-word.",
+      "triggers": [
+        "designing or building autosave components",
+        "reviewing UX/UI for autosave",
+        "implementing forms pattern for autosave",
+        "saved"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "autosave"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.date-pickers",
+        "ui-ux.forms.form-field-states"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/autosave-ux",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-26",
+      "relative_path": "skills/ui-ux/forms/autosave-ux.md"
+    },
+    {
+      "id": "ui-ux.forms.date-pickers",
+      "name": "Date Pickers",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Same date. Six clicks. Or one. The picker that respects your users' time.",
+      "triggers": [
+        "designing or building date pickers components",
+        "reviewing UX/UI for date pickers",
+        "implementing forms pattern for date pickers",
+        "same date"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "date",
+        "pickers"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.form-field-states"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/date-pickers",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/forms/date-pickers.md"
+    },
+    {
+      "id": "ui-ux.forms.file-upload-ux",
+      "name": "File Upload UX",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Same file. One upload feels broken. One feels safe.",
+      "triggers": [
+        "designing or building file upload ux components",
+        "reviewing UX/UI for file upload ux",
+        "implementing forms pattern for file upload ux",
+        "same file"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "file",
+        "upload"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/file-upload-ux",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-10",
+      "relative_path": "skills/ui-ux/forms/file-upload-ux.md"
+    },
+    {
+      "id": "ui-ux.forms.form-field-states",
+      "name": "Form Field States",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Six field states, one system. Miss one and you ship a bug.",
+      "triggers": [
+        "designing or building form field states components",
+        "reviewing UX/UI for form field states",
+        "implementing forms pattern for form field states",
+        "six field states, one system"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "form",
+        "field",
+        "states"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/form-field-states",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/forms/form-field-states.md"
+    },
+    {
+      "id": "ui-ux.forms.form-validation-timing",
+      "name": "Form Validation Timing",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "The error fires while you're still typing.",
+      "triggers": [
+        "designing or building form validation timing components",
+        "reviewing UX/UI for form validation timing",
+        "implementing forms pattern for form validation timing",
+        "the error fires while you're still typing"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "form",
+        "validation",
+        "timing"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/form-validation-timing",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-26",
+      "relative_path": "skills/ui-ux/forms/form-validation-timing.md"
+    },
+    {
+      "id": "ui-ux.forms.input-masking",
+      "name": "Input Masking",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Type 16 digits. Watch them become a card.",
+      "triggers": [
+        "designing or building input masking components",
+        "reviewing UX/UI for input masking",
+        "implementing forms pattern for input masking",
+        "type 16 digits"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "input",
+        "masking"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/input-masking",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/forms/input-masking.md"
+    },
+    {
+      "id": "ui-ux.forms.otp-input",
+      "name": "OTP Input",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Your OTP input is a system, not six boxes.",
+      "triggers": [
+        "designing or building otp input components",
+        "reviewing UX/UI for otp input",
+        "implementing forms pattern for otp input",
+        "your otp input is a system, not six boxes"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "otp",
+        "input"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/otp-input",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-08",
+      "relative_path": "skills/ui-ux/forms/otp-input.md"
+    },
+    {
+      "id": "ui-ux.forms.password-field-ux",
+      "name": "Password Field UX",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Eight characters, one symbol: still weak. Strength lives in real-time feedback.",
+      "triggers": [
+        "designing or building password field ux components",
+        "reviewing UX/UI for password field ux",
+        "implementing forms pattern for password field ux",
+        "eight characters, one symbol: still weak"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "password",
+        "field"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/password-field-ux",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-10",
+      "relative_path": "skills/ui-ux/forms/password-field-ux.md"
+    },
+    {
+      "id": "ui-ux.forms.range-sliders",
+      "name": "Range Sliders",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Drag to 47. Or 48? Your finger can't tell.",
+      "triggers": [
+        "designing or building range sliders components",
+        "reviewing UX/UI for range sliders",
+        "implementing forms pattern for range sliders",
+        "drag to 47"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "range",
+        "sliders"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/range-sliders",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/forms/range-sliders.md"
+    },
+    {
+      "id": "ui-ux.forms.settings-system",
+      "name": "Settings System",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Your settings page is harmless until the last section. Settings is a system.",
+      "triggers": [
+        "designing or building settings system components",
+        "reviewing UX/UI for settings system",
+        "implementing forms pattern for settings system",
+        "your settings page is harmless until the last section"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "settings",
+        "system"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers",
+        "ui-ux.forms.form-field-states"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/settings-system",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-29",
+      "relative_path": "skills/ui-ux/forms/settings-system.md"
+    },
+    {
+      "id": "ui-ux.forms.stepper-wizard",
+      "name": "Stepper Wizard",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Twelve fields, one wall. Four steps, one path.",
+      "triggers": [
+        "designing or building stepper wizard components",
+        "reviewing UX/UI for stepper wizard",
+        "implementing forms pattern for stepper wizard",
+        "twelve fields, one wall"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "stepper",
+        "wizard"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/stepper-wizard",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/forms/stepper-wizard.md"
+    },
+    {
+      "id": "ui-ux.forms.toggle-anatomy",
+      "name": "Toggle Anatomy",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "forms",
+      "summary": "Two toggles. One snaps. One morphs, and the difference is everything.",
+      "triggers": [
+        "designing or building toggle anatomy components",
+        "reviewing UX/UI for toggle anatomy",
+        "implementing forms pattern for toggle anatomy",
+        "two toggles"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "forms",
+        "toggle",
+        "anatomy"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.forms.settings-system",
+        "ui-ux.forms.autosave-ux",
+        "ui-ux.forms.date-pickers"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/toggle-anatomy",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/forms/toggle-anatomy.md"
+    },
+    {
+      "id": "ui-ux.interaction.accordion-disclosure",
+      "name": "Accordion Disclosure",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "One accordion glides open, the other jumps. Four small rules separate them.",
+      "triggers": [
+        "designing or building accordion disclosure components",
+        "reviewing UX/UI for accordion disclosure",
+        "implementing interaction pattern for accordion disclosure",
+        "one accordion glides open, the other jumps"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "accordion",
+        "disclosure"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/accordion-disclosure",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-02",
+      "relative_path": "skills/ui-ux/interaction/accordion-disclosure.md"
+    },
+    {
+      "id": "ui-ux.interaction.behind-the-button",
+      "name": "Behind the Button",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Six things happen before the spinner stops.",
+      "triggers": [
+        "designing or building behind the button components",
+        "reviewing UX/UI for behind the button",
+        "implementing interaction pattern for behind the button",
+        "six things happen before the spinner stops"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "behind",
+        "the",
+        "button"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/behind-the-button",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-31",
+      "relative_path": "skills/ui-ux/interaction/behind-the-button.md"
+    },
+    {
+      "id": "ui-ux.interaction.bottom-sheets",
+      "name": "Bottom Sheets",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Your thumb can't reach that menu.",
+      "triggers": [
+        "designing or building bottom sheets components",
+        "reviewing UX/UI for bottom sheets",
+        "implementing interaction pattern for bottom sheets",
+        "your thumb can't reach that menu"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "bottom",
+        "sheets"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/bottom-sheets",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-26",
+      "relative_path": "skills/ui-ux/interaction/bottom-sheets.md"
+    },
+    {
+      "id": "ui-ux.interaction.bulk-actions",
+      "name": "Bulk Actions",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Bulk actions are a system, not a lone checkbox.",
+      "triggers": [
+        "designing or building bulk actions components",
+        "reviewing UX/UI for bulk actions",
+        "implementing interaction pattern for bulk actions",
+        "bulk actions are a system, not a lone checkbox"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "bulk",
+        "actions"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.disabled-buttons",
+        "ui-ux.interaction.hover-trap"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/bulk-actions",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-08-09",
+      "relative_path": "skills/ui-ux/interaction/bulk-actions.md"
+    },
+    {
+      "id": "ui-ux.interaction.color-picker-ux",
+      "name": "Color Picker UX",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Pick a color. Your whole UI answers.",
+      "triggers": [
+        "designing or building color picker ux components",
+        "reviewing UX/UI for color picker ux",
+        "implementing interaction pattern for color picker ux",
+        "pick a color"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "color",
+        "picker"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/color-picker-ux",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-10",
+      "relative_path": "skills/ui-ux/interaction/color-picker-ux.md"
+    },
+    {
+      "id": "ui-ux.interaction.command-palette",
+      "name": "Command Palette",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "⌘K is a system, not a search box.",
+      "triggers": [
+        "designing or building command palette components",
+        "reviewing UX/UI for command palette",
+        "implementing interaction pattern for command palette",
+        "⌘k is a system, not a search box"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "command",
+        "palette"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/command-palette",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-08",
+      "relative_path": "skills/ui-ux/interaction/command-palette.md"
+    },
+    {
+      "id": "ui-ux.interaction.context-menu",
+      "name": "Context Menu",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "A context menu is a system, not just a list of actions.",
+      "triggers": [
+        "designing or building context menu components",
+        "reviewing UX/UI for context menu",
+        "implementing interaction pattern for context menu",
+        "a context menu is a system, not just a list of actions"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "context",
+        "menu"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/context-menu",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-14",
+      "relative_path": "skills/ui-ux/interaction/context-menu.md"
+    },
+    {
+      "id": "ui-ux.interaction.css-has-selector",
+      "name": "CSS Has Selector",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "One line of CSS. The whole card reacts to its own checkbox.",
+      "triggers": [
+        "designing or building css has selector components",
+        "reviewing UX/UI for css has selector",
+        "implementing interaction pattern for css has selector",
+        "one line of css"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "css",
+        "has",
+        "selector"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons",
+        "ui-ux.interaction.hover-trap"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/css-has-selector",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-09-07",
+      "relative_path": "skills/ui-ux/interaction/css-has-selector.md"
+    },
+    {
+      "id": "ui-ux.interaction.data-table",
+      "name": "Data Table",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Your data table feels cheap because it's a grid of divs, not a system.",
+      "triggers": [
+        "designing or building data table components",
+        "reviewing UX/UI for data table",
+        "implementing interaction pattern for data table",
+        "your data table feels cheap because it's a grid of divs, not a system"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "data",
+        "table"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/data-table",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-05-29",
+      "relative_path": "skills/ui-ux/interaction/data-table.md"
+    },
+    {
+      "id": "ui-ux.interaction.destructive-actions",
+      "name": "Destructive Actions",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Dangerous actions are a design language, not just a red button.",
+      "triggers": [
+        "designing or building destructive actions components",
+        "reviewing UX/UI for destructive actions",
+        "implementing interaction pattern for destructive actions",
+        "dangerous actions are a design language, not just a red button"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "destructive",
+        "actions"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/destructive-actions",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-17",
+      "relative_path": "skills/ui-ux/interaction/destructive-actions.md"
+    },
+    {
+      "id": "ui-ux.interaction.disabled-buttons",
+      "name": "Disabled Buttons",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "The button is disabled, and nobody tells you why.",
+      "triggers": [
+        "designing or building disabled buttons components",
+        "reviewing UX/UI for disabled buttons",
+        "implementing interaction pattern for disabled buttons",
+        "the button is disabled, and nobody tells you why"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "disabled",
+        "buttons"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.hover-trap"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/disabled-buttons",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-08-07",
+      "relative_path": "skills/ui-ux/interaction/disabled-buttons.md"
+    },
+    {
+      "id": "ui-ux.interaction.drag-and-drop",
+      "name": "Drag and Drop",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "The board does the thinking: moving a card is moving state.",
+      "triggers": [
+        "designing or building drag and drop components",
+        "reviewing UX/UI for drag and drop",
+        "implementing interaction pattern for drag and drop",
+        "the board does the thinking: moving a card is moving state"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "drag",
+        "and",
+        "drop"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/drag-and-drop",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/interaction/drag-and-drop.md"
+    },
+    {
+      "id": "ui-ux.interaction.dropdown-design",
+      "name": "Dropdown Design",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Your dropdown is broken. Five rules separate cheap from premium.",
+      "triggers": [
+        "designing or building dropdown design components",
+        "reviewing UX/UI for dropdown design",
+        "implementing interaction pattern for dropdown design",
+        "your dropdown is broken"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "dropdown",
+        "design"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/dropdown-design",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/interaction/dropdown-design.md"
+    },
+    {
+      "id": "ui-ux.interaction.filter-chips",
+      "name": "Filter Chips",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "200 results. Three taps. 12 left.",
+      "triggers": [
+        "designing or building filter chips components",
+        "reviewing UX/UI for filter chips",
+        "implementing interaction pattern for filter chips",
+        "200 results"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "filter",
+        "chips"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/filter-chips",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-08",
+      "relative_path": "skills/ui-ux/interaction/filter-chips.md"
+    },
+    {
+      "id": "ui-ux.interaction.hover-trap",
+      "name": "Hover Trap",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Hover works on your laptop but is dead on mobile.",
+      "triggers": [
+        "designing or building hover trap components",
+        "reviewing UX/UI for hover trap",
+        "implementing interaction pattern for hover trap",
+        "hover works on your laptop but is dead on mobile"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "hover",
+        "trap"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/hover-trap",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-08-05",
+      "relative_path": "skills/ui-ux/interaction/hover-trap.md"
+    },
+    {
+      "id": "ui-ux.interaction.inline-editing",
+      "name": "Inline Editing",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Click the title. It's an input now, and nothing moved.",
+      "triggers": [
+        "designing or building inline editing components",
+        "reviewing UX/UI for inline editing",
+        "implementing interaction pattern for inline editing",
+        "click the title"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "inline",
+        "editing"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/inline-editing",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-23",
+      "relative_path": "skills/ui-ux/interaction/inline-editing.md"
+    },
+    {
+      "id": "ui-ux.interaction.live-cursors",
+      "name": "Live Cursors",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Three cursors land on your canvas. None of them are yours.",
+      "triggers": [
+        "designing or building live cursors components",
+        "reviewing UX/UI for live cursors",
+        "implementing interaction pattern for live cursors",
+        "three cursors land on your canvas"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "live",
+        "cursors"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/live-cursors",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-20",
+      "relative_path": "skills/ui-ux/interaction/live-cursors.md"
+    },
+    {
+      "id": "ui-ux.interaction.modal-hierarchy",
+      "name": "Modal Hierarchy",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "5 overlays. Most apps pick the wrong one.",
+      "triggers": [
+        "designing or building modal hierarchy components",
+        "reviewing UX/UI for modal hierarchy",
+        "implementing interaction pattern for modal hierarchy",
+        "5 overlays"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "modal",
+        "hierarchy"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/modal-hierarchy",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-04-30",
+      "relative_path": "skills/ui-ux/interaction/modal-hierarchy.md"
+    },
+    {
+      "id": "ui-ux.interaction.peak-end-rule",
+      "name": "Peak-End Rule",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Users don't average an experience. They remember its peak and its end.",
+      "triggers": [
+        "designing or building peak-end rule components",
+        "reviewing UX/UI for peak-end rule",
+        "implementing interaction pattern for peak-end rule",
+        "users don't average an experience"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "peak",
+        "end",
+        "rule"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/peak-end-rule",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/interaction/peak-end-rule.md"
+    },
+    {
+      "id": "ui-ux.interaction.search-experience-system",
+      "name": "Search Experience System",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Search is a system. Five parts. Most apps skip them.",
+      "triggers": [
+        "designing or building search experience system components",
+        "reviewing UX/UI for search experience system",
+        "implementing interaction pattern for search experience system",
+        "search is a system"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "search",
+        "experience",
+        "system"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/search-experience-system",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/interaction/search-experience-system.md"
+    },
+    {
+      "id": "ui-ux.interaction.star-rating",
+      "name": "Star Rating",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Five stars looks trivial. Hover, half-fills, and honest averages are where it breaks.",
+      "triggers": [
+        "designing or building star rating components",
+        "reviewing UX/UI for star rating",
+        "implementing interaction pattern for star rating",
+        "five stars looks trivial"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "star",
+        "rating"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/star-rating",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/interaction/star-rating.md"
+    },
+    {
+      "id": "ui-ux.interaction.swipe-actions",
+      "name": "Swipe Actions",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Your swipe actions are killing your UX",
+      "triggers": [
+        "designing or building swipe actions components",
+        "reviewing UX/UI for swipe actions",
+        "implementing interaction pattern for swipe actions",
+        "your swipe actions are killing your ux"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "swipe",
+        "actions"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/swipe-actions",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-03",
+      "relative_path": "skills/ui-ux/interaction/swipe-actions.md"
+    },
+    {
+      "id": "ui-ux.interaction.tooltip-design",
+      "name": "Tooltip Design",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "interaction",
+      "summary": "Your tooltip is annoying. Five rules that make it feel premium.",
+      "triggers": [
+        "designing or building tooltip design components",
+        "reviewing UX/UI for tooltip design",
+        "implementing interaction pattern for tooltip design",
+        "your tooltip is annoying"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "interaction",
+        "tooltip",
+        "design"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.interaction.css-has-selector",
+        "ui-ux.interaction.bulk-actions",
+        "ui-ux.interaction.disabled-buttons"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/tooltip-design",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/interaction/tooltip-design.md"
+    },
+    {
+      "id": "ui-ux.motion.animation-timing",
+      "name": "Animation Timing",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "motion",
+      "summary": "Same modal, two timings: one feels premium, one feels broken. It's all milliseconds.",
+      "triggers": [
+        "designing or building animation timing components",
+        "reviewing UX/UI for animation timing",
+        "implementing motion pattern for animation timing",
+        "same modal, two timings: one feels premium, one feels broken"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "motion",
+        "animation",
+        "timing"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.motion.easing-curves",
+        "ui-ux.motion.card-hover-anatomy",
+        "ui-ux.motion.scroll-driven-animations"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/animation-timing",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/motion/animation-timing.md"
+    },
+    {
+      "id": "ui-ux.motion.card-hover-anatomy",
+      "name": "Card Hover Anatomy",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "motion",
+      "summary": "Same card. One feels alive, three stay dead. Four rules separate them.",
+      "triggers": [
+        "designing or building card hover anatomy components",
+        "reviewing UX/UI for card hover anatomy",
+        "implementing motion pattern for card hover anatomy",
+        "same card"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "motion",
+        "card",
+        "hover",
+        "anatomy"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.motion.animation-timing",
+        "ui-ux.motion.easing-curves",
+        "ui-ux.motion.scroll-driven-animations"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/card-hover-anatomy",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-05-16",
+      "relative_path": "skills/ui-ux/motion/card-hover-anatomy.md"
+    },
+    {
+      "id": "ui-ux.motion.easing-curves",
+      "name": "Easing Curves",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "motion",
+      "summary": "Same distance, different feel: the easing curve is what decides how motion reads.",
+      "triggers": [
+        "designing or building easing curves components",
+        "reviewing UX/UI for easing curves",
+        "implementing motion pattern for easing curves"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "motion",
+        "easing",
+        "curves"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.motion.animation-timing",
+        "ui-ux.motion.card-hover-anatomy",
+        "ui-ux.motion.scroll-driven-animations"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/easing-curves",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/motion/easing-curves.md"
+    },
+    {
+      "id": "ui-ux.motion.scroll-driven-animations",
+      "name": "Scroll-Driven Animations",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "motion",
+      "summary": "Same scroll: one feels dead, the other comes alive. Pure CSS, zero JavaScript.",
+      "triggers": [
+        "designing or building scroll-driven animations components",
+        "reviewing UX/UI for scroll-driven animations",
+        "implementing motion pattern for scroll-driven animations",
+        "same scroll: one feels dead, the other comes alive"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "motion",
+        "scroll",
+        "driven",
+        "animations"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.motion.animation-timing",
+        "ui-ux.motion.easing-curves",
+        "ui-ux.motion.card-hover-anatomy"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/scroll-driven-animations",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-04-12",
+      "relative_path": "skills/ui-ux/motion/scroll-driven-animations.md"
+    },
+    {
+      "id": "ui-ux.navigation.focus-states",
+      "name": "Focus States",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "navigation",
+      "summary": "Press Tab. Where did the focus go?",
+      "triggers": [
+        "designing or building focus states components",
+        "reviewing UX/UI for focus states",
+        "implementing navigation pattern for focus states",
+        "press tab"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "navigation",
+        "focus",
+        "states"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.navigation.navigation-patterns",
+        "ui-ux.navigation.tabs-system",
+        "ui-ux.navigation.pagination"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/focus-states",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-03",
+      "relative_path": "skills/ui-ux/navigation/focus-states.md"
+    },
+    {
+      "id": "ui-ux.navigation.navigation-patterns",
+      "name": "Navigation Patterns",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "navigation",
+      "summary": "Five nav patterns, one system: mobile = tabs, desktop = sidebar.",
+      "triggers": [
+        "designing or building navigation patterns components",
+        "reviewing UX/UI for navigation patterns",
+        "implementing navigation pattern for navigation patterns",
+        "five nav patterns, one system: mobile = tabs, desktop = sidebar"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "navigation",
+        "patterns"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.navigation.tabs-system",
+        "ui-ux.navigation.focus-states",
+        "ui-ux.navigation.pagination"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/navigation-patterns",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/navigation/navigation-patterns.md"
+    },
+    {
+      "id": "ui-ux.navigation.pagination",
+      "name": "Pagination",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "navigation",
+      "summary": "Add one row and your pagination breaks.",
+      "triggers": [
+        "designing or building pagination components",
+        "reviewing UX/UI for pagination",
+        "implementing navigation pattern for pagination",
+        "add one row and your pagination breaks"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "navigation",
+        "pagination"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.navigation.navigation-patterns",
+        "ui-ux.navigation.tabs-system",
+        "ui-ux.navigation.focus-states"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/pagination",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-08",
+      "relative_path": "skills/ui-ux/navigation/pagination.md"
+    },
+    {
+      "id": "ui-ux.navigation.tabs-system",
+      "name": "Tabs System",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "navigation",
+      "summary": "Tabs aren't a widget. They're a system. Stop letting them jump.",
+      "triggers": [
+        "designing or building tabs system components",
+        "reviewing UX/UI for tabs system",
+        "implementing navigation pattern for tabs system",
+        "tabs aren't a widget"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "navigation",
+        "tabs",
+        "system"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.navigation.navigation-patterns",
+        "ui-ux.navigation.focus-states",
+        "ui-ux.navigation.pagination"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/tabs-system",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/navigation/tabs-system.md"
+    },
+    {
+      "id": "ui-ux.visual.border-radius",
+      "name": "Border Radius",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Same card. One looks off, one looks expensive. The gap is one CSS rule.",
+      "triggers": [
+        "designing or building border radius components",
+        "reviewing UX/UI for border radius",
+        "implementing visual pattern for border radius",
+        "same card"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "border",
+        "radius"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/border-radius",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-03-24",
+      "relative_path": "skills/ui-ux/visual/border-radius.md"
+    },
+    {
+      "id": "ui-ux.visual.charts-that-lie",
+      "name": "Charts That Lie",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Same data, opposite stories: how you draw a chart decides which truth people see.",
+      "triggers": [
+        "designing or building charts that lie components",
+        "reviewing UX/UI for charts that lie",
+        "implementing visual pattern for charts that lie"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "charts",
+        "that",
+        "lie"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.design-system-kit"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/charts-that-lie",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/visual/charts-that-lie.md"
+    },
+    {
+      "id": "ui-ux.visual.color-accessibility",
+      "name": "Color Accessibility",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Same text, same color: one is invisible. The contrast ratio nobody checks.",
+      "triggers": [
+        "designing or building color accessibility components",
+        "reviewing UX/UI for color accessibility",
+        "implementing visual pattern for color accessibility",
+        "same text, same color: one is invisible"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "color",
+        "accessibility"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/color-accessibility",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-04-03",
+      "relative_path": "skills/ui-ux/visual/color-accessibility.md"
+    },
+    {
+      "id": "ui-ux.visual.dark-mode",
+      "name": "Dark Mode",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Same app, one inverts colors. The other feels premium.",
+      "triggers": [
+        "designing or building dark mode components",
+        "reviewing UX/UI for dark mode",
+        "implementing visual pattern for dark mode",
+        "same app, one inverts colors"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "dark",
+        "mode"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/dark-mode",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-03-24",
+      "relative_path": "skills/ui-ux/visual/dark-mode.md"
+    },
+    {
+      "id": "ui-ux.visual.de-ai-landing-hero",
+      "name": "De-AI Landing Hero",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Your landing page looks AI-made. Five tells. Five fixes.",
+      "triggers": [
+        "designing or building de-ai landing hero components",
+        "reviewing UX/UI for de-ai landing hero",
+        "implementing visual pattern for de-ai landing hero",
+        "your landing page looks ai-made"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "landing",
+        "hero"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie",
+        "ui-ux.visual.design-system-kit"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/de-ai-landing-hero",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-09-07",
+      "relative_path": "skills/ui-ux/visual/de-ai-landing-hero.md"
+    },
+    {
+      "id": "ui-ux.visual.depth-layers",
+      "name": "Depth Layers",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Same layout, same colors: three properties turn flat cards into real depth.",
+      "triggers": [
+        "designing or building depth layers components",
+        "reviewing UX/UI for depth layers",
+        "implementing visual pattern for depth layers",
+        "same layout, same colors: three properties turn flat cards into real depth"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "depth",
+        "layers"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/depth-layers",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-03-10",
+      "relative_path": "skills/ui-ux/visual/depth-layers.md"
+    },
+    {
+      "id": "ui-ux.visual.design-system-kit",
+      "name": "Design System Kit",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Random hex and eyeballed pixels don't scale. A token system does.",
+      "triggers": [
+        "designing or building design system kit components",
+        "reviewing UX/UI for design system kit",
+        "implementing visual pattern for design system kit",
+        "random hex and eyeballed pixels don't scale"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "design",
+        "system",
+        "kit"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/design-system-kit",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/visual/design-system-kit.md"
+    },
+    {
+      "id": "ui-ux.visual.design-tokens",
+      "name": "Design Tokens",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "47 changes, or just one. Design tokens change everything.",
+      "triggers": [
+        "designing or building design tokens components",
+        "reviewing UX/UI for design tokens",
+        "implementing visual pattern for design tokens",
+        "47 changes, or just one"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "design",
+        "tokens"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/design-tokens",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-04-07",
+      "relative_path": "skills/ui-ux/visual/design-tokens.md"
+    },
+    {
+      "id": "ui-ux.visual.gestalt-laws",
+      "name": "Gestalt Laws",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Same elements. One is chaos. The other clicks instantly.",
+      "triggers": [
+        "designing or building gestalt laws components",
+        "reviewing UX/UI for gestalt laws",
+        "implementing visual pattern for gestalt laws",
+        "same elements"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "gestalt",
+        "laws"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/gestalt-laws",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-03-28",
+      "relative_path": "skills/ui-ux/visual/gestalt-laws.md"
+    },
+    {
+      "id": "ui-ux.visual.golden-ratio",
+      "name": "Golden Ratio",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "One layout looks cheap, the other expensive. The difference is 1.618.",
+      "triggers": [
+        "designing or building golden ratio components",
+        "reviewing UX/UI for golden ratio",
+        "implementing visual pattern for golden ratio",
+        "one layout looks cheap, the other expensive"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "golden",
+        "ratio"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/golden-ratio",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/visual/golden-ratio.md"
+    },
+    {
+      "id": "ui-ux.visual.gradient-design",
+      "name": "Gradient Design",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Why your gradients look cheap",
+      "triggers": [
+        "designing or building gradient design components",
+        "reviewing UX/UI for gradient design",
+        "implementing visual pattern for gradient design",
+        "why your gradients look cheap"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "gradient",
+        "design"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/gradient-design",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-06-22",
+      "relative_path": "skills/ui-ux/visual/gradient-design.md"
+    },
+    {
+      "id": "ui-ux.visual.grid-system",
+      "name": "Grid System",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Align everything to a 12-column grid, then break it on purpose.",
+      "triggers": [
+        "designing or building grid system components",
+        "reviewing UX/UI for grid system",
+        "implementing visual pattern for grid system",
+        "align everything to a 12-column grid, then break it on purpose"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "grid",
+        "system"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/grid-system",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/visual/grid-system.md"
+    },
+    {
+      "id": "ui-ux.visual.icon-design-rules",
+      "name": "Icon Design Rules",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Your icons look cheap. 5 rules turn them premium.",
+      "triggers": [
+        "designing or building icon design rules components",
+        "reviewing UX/UI for icon design rules",
+        "implementing visual pattern for icon design rules",
+        "your icons look cheap"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "icon",
+        "design",
+        "rules"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/icon-design-rules",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-04-25",
+      "relative_path": "skills/ui-ux/visual/icon-design-rules.md"
+    },
+    {
+      "id": "ui-ux.visual.perfect-card",
+      "name": "Perfect Card",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "One card looks free. The other costs $1000. Four CSS changes.",
+      "triggers": [
+        "designing or building perfect card components",
+        "reviewing UX/UI for perfect card",
+        "implementing visual pattern for perfect card",
+        "one card looks free"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "perfect",
+        "card"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/perfect-card",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-03-15",
+      "relative_path": "skills/ui-ux/visual/perfect-card.md"
+    },
+    {
+      "id": "ui-ux.visual.proximity-rule",
+      "name": "Proximity Rule",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Close = related, far = separate: spacing alone groups your UI, no borders needed.",
+      "triggers": [
+        "designing or building proximity rule components",
+        "reviewing UX/UI for proximity rule",
+        "implementing visual pattern for proximity rule"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "proximity",
+        "rule"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/proximity-rule",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/visual/proximity-rule.md"
+    },
+    {
+      "id": "ui-ux.visual.reverse-engineered-linear",
+      "name": "Reverse-Engineered Linear",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Why does Linear feel expensive? Five decisions. None need a designer.",
+      "triggers": [
+        "designing or building reverse-engineered linear components",
+        "reviewing UX/UI for reverse-engineered linear",
+        "implementing visual pattern for reverse-engineered linear",
+        "why does linear feel expensive? five decisions"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "reverse",
+        "engineered",
+        "linear"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.charts-that-lie",
+        "ui-ux.visual.design-system-kit"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/reverse-engineered-linear",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-09-07",
+      "relative_path": "skills/ui-ux/visual/reverse-engineered-linear.md"
+    },
+    {
+      "id": "ui-ux.visual.shadow-elevation",
+      "name": "Shadow Elevation",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Shadows aren't decoration. They encode hierarchy and depth.",
+      "triggers": [
+        "designing or building shadow elevation components",
+        "reviewing UX/UI for shadow elevation",
+        "implementing visual pattern for shadow elevation",
+        "shadows aren't decoration"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "shadow",
+        "elevation"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/shadow-elevation",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/visual/shadow-elevation.md"
+    },
+    {
+      "id": "ui-ux.visual.visual-hierarchy",
+      "name": "Visual Hierarchy",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Five rules that decide what your users see first, and what they skip.",
+      "triggers": [
+        "designing or building visual hierarchy components",
+        "reviewing UX/UI for visual hierarchy",
+        "implementing visual pattern for visual hierarchy",
+        "five rules that decide what your users see first, and what they skip"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "hierarchy"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/visual-hierarchy",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/visual/visual-hierarchy.md"
+    },
+    {
+      "id": "ui-ux.visual.von-restorff",
+      "name": "Von Restorff Effect",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "Three identical pricing cards, nobody clicks. Isolate one: 3× more conversions.",
+      "triggers": [
+        "designing or building von restorff effect components",
+        "reviewing UX/UI for von restorff effect",
+        "implementing visual pattern for von restorff effect",
+        "three identical pricing cards, nobody clicks"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "von",
+        "restorff"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/von-restorff",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-03-24",
+      "relative_path": "skills/ui-ux/visual/von-restorff.md"
+    },
+    {
+      "id": "ui-ux.visual.z-index-mastery",
+      "name": "Z-Index Mastery",
+      "version": "1.0.0",
+      "domain": "ui-ux",
+      "subdomain": "visual",
+      "summary": "z-index lies: a bigger number won't win if the element isn't positioned.",
+      "triggers": [
+        "designing or building z-index mastery components",
+        "reviewing UX/UI for z-index mastery",
+        "implementing visual pattern for z-index mastery",
+        "z-index lies: a bigger number won't win if the element isn't positioned"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "visual",
+        "index",
+        "mastery"
+      ],
+      "priority": "medium",
+      "dependencies": [],
+      "related_skills": [
+        "ui-ux.visual.de-ai-landing-hero",
+        "ui-ux.visual.reverse-engineered-linear",
+        "ui-ux.visual.charts-that-lie"
+      ],
+      "source": {
+        "name": "designmotionhq",
+        "url": "https://www.designmotionhq.com/patterns/z-index-mastery",
+        "instagram_url": "https://www.instagram.com/designmotionhq/"
+      },
+      "last_updated": "2026-07-08",
+      "relative_path": "skills/ui-ux/visual/z-index-mastery.md"
+    }
+  ]
+}
