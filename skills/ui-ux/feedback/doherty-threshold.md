@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.feedback.loading-states-system
 - ui-ux.feedback.notification-system
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/doherty-threshold
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Do:** Show progress feedback whenever the real work has to exceed the threshold
 - **Don't:** Leave the screen blank or frozen while data loads in the background
 - **Don't:** Wait for a server round-trip before giving any visual response
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/doherty-threshold.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/doherty-threshold.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/doherty-threshold)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

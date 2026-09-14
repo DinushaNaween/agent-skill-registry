@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/inline-editing
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-23'
 ---
 
@@ -55,12 +54,9 @@ last_updated: '2026-07-23'
 - **Do:** Keep font, size, and padding identical between the text and the input.
 - **Don't:** Leave editable text with zero affordance, so users cannot tell it is editable.
 - **Don't:** Change what blur does from one screen to the next (save here, discard there).
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/inline-editing.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/inline-editing.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/inline-editing)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

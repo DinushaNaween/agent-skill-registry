@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.motion.card-hover-anatomy
 - ui-ux.motion.scroll-driven-animations
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/animation-timing
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-07-08'
 - **Don't:** Stretch entrances past ~300ms — they start to feel sluggish and in the way
 - **Don't:** Use symmetric in/out timing — a matched-length exit feels like the UI is dragging
 - **Don't:** Reach for linear easing on entrances — it reads mechanical and cheap
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/animation-timing.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/animation-timing.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/animation-timing)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

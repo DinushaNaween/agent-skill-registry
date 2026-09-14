@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/command-palette
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-08'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-06-08'
 - **Don't:** Require exact substring matches — "stg" ≠ "Settings" leaves users staring at "No results"
 - **Don't:** Open to a blank "No results" void with nothing to select
 - **Don't:** Freeze the whole screen while an async command loads instead of spinning inline
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/command-palette.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/command-palette.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/command-palette)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

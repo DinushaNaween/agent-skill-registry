@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.forms.autosave-ux
 - ui-ux.forms.date-pickers
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/range-sliders
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-07-08'
 - **Don't:** Rely on a 4px hairline as the only hit target
 - **Don't:** Leave a slider continuous when users need clean, round values
 - **Don't:** Ship a slider that can't be driven with arrow keys, Home, and End
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/range-sliders.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/range-sliders.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/range-sliders)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

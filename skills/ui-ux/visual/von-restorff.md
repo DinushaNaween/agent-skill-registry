@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.charts-that-lie
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/von-restorff
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-03-24'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-03-24'
 - **Don't:** Highlight two or three elements at once — competing emphasis cancels the effect entirely
 - **Don't:** Ship identical options and hope users pick the one you actually want them to choose
 - **Don't:** Lean on color alone; pair it with scale or elevation so the contrast holds up
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/von-restorff.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/von-restorff.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/von-restorff)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

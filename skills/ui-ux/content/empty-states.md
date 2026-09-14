@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.content.microcopy
 - ui-ux.content.landing-page-skeleton
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/empty-states
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Don't:** Leave a bare "No data" or blank body with no visual or guidance
 - **Don't:** Rely on a generic "Try refreshing" as the only available action
 - **Don't:** Write cold, log-file copy like "ERROR 404 — Result set empty."
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/empty-states.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/empty-states.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/empty-states)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

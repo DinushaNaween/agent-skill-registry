@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/hover-trap
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-08-05'
 ---
 
@@ -68,12 +67,9 @@ last_updated: '2026-08-05'
 pointer: coarse
 ```
 
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/hover-trap.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/hover-trap.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/hover-trap)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

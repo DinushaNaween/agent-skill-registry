@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/search-experience-system
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -58,12 +57,9 @@ last_updated: '2026-07-08'
 - **Don't:** Ship a bare "Search" as your only placeholder
 - **Don't:** Sort autocomplete alphabetically instead of by popularity
 - **Don't:** Leave a "No matches" screen as a dead end
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/search-experience-system.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/search-experience-system.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/search-experience-system)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

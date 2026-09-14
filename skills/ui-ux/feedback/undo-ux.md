@@ -22,9 +22,8 @@ related_skills:
 - ui-ux.feedback.error-states
 - ui-ux.feedback.loading-states-system
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/undo-ux
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-03'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-03'
 - **Don't:** Block every destructive action behind an "Are you sure?" dialog
 - **Don't:** Hard-delete data from the database the moment the user clicks
 - **Don't:** Make the undo window so short users can't realistically react
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/undo-ux.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/undo-ux.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/undo-ux)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

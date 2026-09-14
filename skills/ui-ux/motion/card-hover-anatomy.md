@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.motion.easing-curves
 - ui-ux.motion.scroll-driven-animations
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/card-hover-anatomy
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-05-16'
 ---
 
@@ -64,12 +63,9 @@ last_updated: '2026-05-16'
 overflow-hidden
 ```
 
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/card-hover-anatomy.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/card-hover-anatomy.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/card-hover-anatomy)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

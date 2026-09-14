@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.content.microcopy
 - ui-ux.content.landing-page-skeleton
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/serial-position
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Do:** Open with your best value proposition and finish with your strongest proof
 - **Don't:** Bury critical CTAs or key information in the middle of a list, where recall is lowest
 - **Don't:** Order items arbitrarily and assume every position is remembered equally
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/serial-position.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/serial-position.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/serial-position)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

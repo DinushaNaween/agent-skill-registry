@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.visual.charts-that-lie
 - ui-ux.visual.design-system-kit
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/reverse-engineered-linear
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-09-07'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-09-07'
 - **Don't:** Use drop shadows to separate rows, panels, or the sidebar.
 - **Don't:** Encode status or priority with colored pills when a grey icon says the same thing.
 - **Don't:** Let transitions bounce, overshoot, or drag past 150ms.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/reverse-engineered-linear.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/reverse-engineered-linear.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/reverse-engineered-linear)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

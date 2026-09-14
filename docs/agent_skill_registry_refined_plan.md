@@ -1,10 +1,10 @@
-# Refined Plan: Hierarchical AI Agent Skill Registry & Automated Knowledge Harvester
+# Refined Plan: Hierarchical AI Agent Skill Registry & Automated Knowledge Ingestion
 
 ## 1. Executive Summary
 
 This document refines and expands upon the original [Agent Skill Registry Architectural Plan](./agent_skill_registry_architectural_plan.md). 
 
-The goal is to build an **extensible, machine-discoverable, human-readable Agent Skill Registry** across all core software engineering domains, coupled with an **automated Harvester / Scraper Engine** capable of extracting patterns, best practices, and actionable rules from external websites (starting with [designmotionhq.com/patterns](https://www.designmotionhq.com/patterns)) and compiling them into canonical skill documents.
+The goal is to build an **extensible, machine-discoverable, human-readable Agent Skill Registry** across all core software engineering domains, coupled with an **automated Ingestion & Harvester Engine** capable of extracting patterns, best practices, and actionable rules from public engineering resources and compiling them into canonical skill documents.
 
 ---
 
@@ -12,7 +12,7 @@ The goal is to build an **extensible, machine-discoverable, human-readable Agent
 
 ```text
        External Knowledge Sources
-  (DesignMotionHQ, OWASP, Refactoring.Guru, Docs)
+ (Web Standards, OWASP, Refactoring Catalogs, Docs)
                      │
                      ▼
           ┌─────────────────────┐
@@ -79,11 +79,8 @@ related_skills:
   - ui-ux.motion.animation-timing
   - ui-ux.interaction.focus-states
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/accordion-disclosure
-  media:
-    thumbnail: https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/accordion-disclosure.jpg
-    video: https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/accordion-disclosure.mp4
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: "2026-09-14"
 ---
 ```
@@ -92,84 +89,44 @@ last_updated: "2026-09-14"
 
 1. **`# [Skill Name]`**: Clear title and one-line summary hook.
 2. **`## When to Use (Triggers)`**: Explicit scenarios where the agent must load this skill.
-3. **`## Key Principles & Insights`**: Foundational rules, DOM/state considerations, UX rationale.
+3. **`## Key Principles & Insights`**: Foundational rules, state considerations, rationale.
 4. **`## Do's & Don'ts`**: Crisp, binary dos and don'ts formatted as actionable bullet points.
-5. **`## Code & Implementation Snippets`**: Copy-pasteable, production-ready code (CSS selectors, HTML semantics, JS handlers, C# patterns, etc.).
-6. **`## Visual References & Demos`**: Direct links to video breakdowns and visual thumbnails.
-7. **`## Related Skills & Dependencies`**: Cross-links to complementary skills.
+5. **`## Code & Implementation Snippets`**: Copy-pasteable, production-ready code (CSS selectors, HTML semantics, JS handlers, backend patterns).
+6. **`## References`**: Cross-links to standards and complementary documentation.
 
 ---
 
-## 4. Pluggable Harvester & Scraper Pipeline
-
-To support ingesting skills from any similar technical or design repository, the scraping engine is structured around an extensible **Adapter Pattern**:
+## 4. Domain Taxonomy & Directory Organization
 
 ```text
-              BaseHarvester (Abstract Interface)
-               ├── discover() -> List[str]
-               ├── extract(url) -> RawPageData
-               └── normalize(RawPageData) -> Skill
-                            ▲
-            ┌───────────────┴───────────────┐
-            │                               │
-  DesignMotionHQHarvester          GenericHtmlHarvester
-  (Extracts 76 UI/UX patterns,    (Heuristic-based scraper for
-   Next.js metadata, video/mp4,    markdown blogs, documentation,
-   insights & dos/donts)           and pattern repositories)
-```
-
-### Pipeline Steps:
-1. **Discover**: Crawls index or sitemap to discover all pattern/skill URLs.
-2. **Extract**: Downloads raw HTML/JSON with retry logic and polite rate limiting (0.5s–1.0s).
-3. **Normalize**: Maps scraped content into the canonical `Skill` data model.
-4. **Ingest & Merge**:
-   - Checks content hash: skips unchanged skills unless `--force` is set.
-   - Writes or updates individual markdown skill files in `skills/<domain>/<subdomain>/<slug>.md`.
-   - Re-indexes the entire registry into `registry.md` and `registry.json`.
-
----
-
-## 5. Domain Taxonomy & Directory Organization
-
-```text
-Web-Scraper/
-├── docs/
-│   ├── agent_skill_registry_architectural_plan.md  # Original base plan
-│   └── agent_skill_registry_refined_plan.md        # This document
-├── registry.md                                      # Human & Agent readable map of all skills
-├── registry.json                                    # Structured metadata index
-├── skills/                                          # Canonical skills tree
-│   ├── ui-ux/                                       # Populated by DesignMotionHQ harvester
-│   │   ├── interaction/
-│   │   ├── visual/
-│   │   ├── forms/
-│   │   ├── motion/
-│   │   ├── content/
-│   │   ├── feedback/
-│   │   └── navigation/
-│   ├── security/                                    # Future: OWASP & secure coding
-│   ├── architecture/                                # Future: Clean arch & API design
-│   ├── dotnet/                                      # Future: .NET / C# best practices
-│   ├── database/                                    # Future: SQL, indexing, optimization
-│   └── testing/                                     # Future: Unit, integration, E2E
-├── harvesters/                                      # Extensible scraper adapters
-│   ├── __init__.py
-│   ├── base.py                                      # Abstract BaseHarvester
-│   ├── models.py                                    # Dataclasses: Skill, Media, Source
-│   ├── designmotionhq.py                            # Production DesignMotionHQ adapter
-│   └── generic.py                                   # Configurable generic adapter
-├── registry_engine/                                 # Ingestion & indexer engine
-│   ├── __init__.py
-│   ├── writer.py                                    # Markdown skill serializer with YAML
-│   ├── indexer.py                                   # Generates registry.md and registry.json
-│   └── search.py                                    # CLI/API skill search & discovery
-├── main.py                                          # Master CLI interface
-└── requirements.txt
+skills/
+├── ui-ux/                                       # UI/UX design patterns
+│   ├── interaction/
+│   ├── visual/
+│   ├── forms/
+│   ├── motion/
+│   ├── content/
+│   ├── feedback/
+│   └── navigation/
+├── security/                                    # Security best practices & hardening
+│   ├── fundamentals/
+│   ├── cryptography/
+│   ├── access-control/
+│   ├── network-security/
+│   ├── app-security/
+│   ├── cloud-security/
+│   ├── system-hardening/
+│   ├── incident-response/
+│   └── ai-security/
+├── architecture/                                # Future: Clean arch & API design
+├── dotnet/                                      # Future: .NET / C# best practices
+├── database/                                    # Future: SQL, indexing, optimization
+└── testing/                                     # Future: Unit, integration, E2E
 ```
 
 ---
 
-## 6. Agent Discovery & Consumption Lifecycle
+## 5. Agent Discovery & Consumption Lifecycle
 
 When an AI agent is executing a user request, it discovers and consumes skills using a 5-step lifecycle:
 
@@ -185,30 +142,11 @@ Matches:
 - ui-ux.motion.animation-timing
 
 Step 3: Dependency Resolution
-Agent inspects dependencies in frontmatter (none required or loads prerequisite skills).
+Agent inspects dependencies in frontmatter.
 
 Step 4: Selective Loading
-Agent loads ONLY the 3 matched markdown files into its working context (saving tokens).
+Agent loads ONLY the matched markdown files into its working context (saving tokens).
 
 Step 5: Execution & Verification
-Agent applies the specific dos/don'ts and CSS/JS patterns to generate high-standard code.
+Agent applies the specific dos/don'ts and code patterns to generate production-standard code.
 ```
-
----
-
-## 7. Next Steps & Implementation Roadmap
-
-1. **Phase 1: Foundation & Core Harvester Engine**
-   - Implement `harvesters/models.py` and `harvesters/base.py`.
-   - Implement `harvesters/designmotionhq.py` to extract all 76 UI/UX patterns.
-   - Implement `registry_engine/writer.py` to output canonical skills.
-   - Implement `registry_engine/indexer.py` to generate `registry.md` and `registry.json`.
-
-2. **Phase 2: Execution & Verification on DesignMotionHQ**
-   - Run scraper on `https://www.designmotionhq.com/patterns`.
-   - Verify extraction of 76 skills across `ui-ux/*`.
-   - Validate YAML frontmatter, media links, insights, and dos/donts.
-
-3. **Phase 3: Generic Adapter & CLI Tooling**
-   - Add discovery CLI: `python main.py search <keyword>` and `python main.py load <skill_id>`.
-   - Add extensible harvester CLI: `python main.py harvest --source designmotionhq` or `--source generic --url <url>`.

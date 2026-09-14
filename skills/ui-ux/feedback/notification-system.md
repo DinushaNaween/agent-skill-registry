@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.feedback.error-states
 - ui-ux.feedback.loading-states-system
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/notification-system
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Don't:** Route every alert to the most intrusive surface — over-escalation trains users to ignore all of them.
 - **Don't:** Queue multiple modals on top of each other; blocking dialogs stacked together are a trainwreck.
 - **Don't:** Use a blocking modal for a low-severity, purely informational message.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/notification-system.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/notification-system.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/notification-system)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

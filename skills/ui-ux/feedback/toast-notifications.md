@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.feedback.error-states
 - ui-ux.feedback.loading-states-system
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/toast-notifications
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Don't:** Place toasts in the screen center, where they block the content users are working on
 - **Don't:** Auto-dismiss critical errors — hold them until the user acknowledges
 - **Don't:** Show more than three toasts at once; queue the rest instead of piling them up
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/toast-notifications.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/toast-notifications.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/toast-notifications)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

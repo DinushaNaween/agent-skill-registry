@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.charts-that-lie
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/grid-system
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Do:** Collapse columns at each breakpoint (12 → 6 → 4 → 1) so content reflows cleanly
 - **Don't:** Break the grid before you've established it — a bleed only reads as intentional against order
 - **Don't:** Reach for arbitrary widths when a clean column ratio like 4:8 or 6:6 already fits
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/grid-system.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/grid-system.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/grid-system)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

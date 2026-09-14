@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.feedback.loading-states-system
 - ui-ux.feedback.notification-system
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/error-states
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-07-08'
 - **Don't:** Ship dead-end errors whose only option is 'OK'.
 - **Don't:** Surface raw codes like 'Error 500' or 'An error occurred' with no guidance.
 - **Don't:** Interrupt a minor validation slip with a full-screen modal.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/error-states.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/error-states.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/error-states)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

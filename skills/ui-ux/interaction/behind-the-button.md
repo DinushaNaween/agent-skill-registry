@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/behind-the-button
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-31'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-31'
 - **Do:** Wrap multi-row writes in one transaction so any failure rolls back the whole thing.
 - **Don't:** Trust values the client sends, including the price, since a request is trivial to forge.
 - **Don't:** Reach for optimistic UI on payments or other irreversible actions; make them earn the spinner.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/behind-the-button.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/behind-the-button.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/behind-the-button)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

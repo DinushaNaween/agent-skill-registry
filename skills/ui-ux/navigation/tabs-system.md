@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.navigation.focus-states
 - ui-ux.navigation.pagination
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/tabs-system
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-07-08'
 - **Don't:** Wrap an overflowing tab row onto a second line
 - **Don't:** Hard-cut content on switch — fade out, pause, fade in instead
 - **Don't:** Reuse the desktop tab bar shrunk down on mobile
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/tabs-system.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/tabs-system.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/tabs-system)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

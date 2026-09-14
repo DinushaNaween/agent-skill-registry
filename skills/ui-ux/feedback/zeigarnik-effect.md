@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.feedback.error-states
 - ui-ux.feedback.loading-states-system
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/zeigarnik-effect
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Do:** Keep the remaining percentage salient so the open loop stays top of mind
 - **Don't:** Close every loop at 100%% — a fully finished state removes any reason to return
 - **Don't:** Manufacture progress on chores nobody asked for, like a reading bar on a marketing email
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/zeigarnik-effect.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/zeigarnik-effect.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/zeigarnik-effect)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

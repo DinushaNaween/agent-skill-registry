@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.forms.autosave-ux
 - ui-ux.forms.date-pickers
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/form-field-states
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -58,12 +57,9 @@ last_updated: '2026-07-08'
 - **Don't:** Use a placeholder as the label — it vanishes as soon as typing begins
 - **Don't:** Rely on a border-only red for errors; roughly 12% of users won't perceive it
 - **Don't:** Fake a disabled state with opacity 0.5 — it reads as a loading state instead
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/form-field-states.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/form-field-states.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/form-field-states)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

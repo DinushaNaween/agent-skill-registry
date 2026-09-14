@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/drag-and-drop
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -58,12 +57,9 @@ last_updated: '2026-07-08'
 - **Don't:** Snap a released card into place with no lift or shadow — it feels like nothing happened
 - **Don't:** Force pixel-precise placement when snapping to a valid slot would do the work
 - **Don't:** Make a wrong drop permanent with no way to reverse it
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/drag-and-drop.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/drag-and-drop.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/drag-and-drop)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

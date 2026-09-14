@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.forms.autosave-ux
 - ui-ux.forms.date-pickers
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/toggle-anatomy
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Don't:** Snap the knob instantly between states — the hard jump reads as broken, not responsive.
 - **Don't:** Leave the toggle ambiguous during a network request — an un-spun switch looks stuck.
 - **Don't:** Ship a toggle that only responds to a mouse click and skips keyboard and screen-reader users.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/toggle-anatomy.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/toggle-anatomy.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/toggle-anatomy)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

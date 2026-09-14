@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.motion.easing-curves
 - ui-ux.motion.card-hover-anatomy
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/scroll-driven-animations
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-04-12'
 ---
 
@@ -78,12 +77,9 @@ position: sticky
 getBoundingClientRect()
 ```
 
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/scroll-driven-animations.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/scroll-driven-animations.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/scroll-driven-animations)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.feedback.error-states
 - ui-ux.feedback.loading-states-system
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/skeleton-loading
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-15'
 ---
 
@@ -52,12 +51,9 @@ last_updated: '2026-06-15'
 
 - **Do:** shape skeletons to mirror the final layout, animate them, and keep them under ~2 seconds before showing partial content.
 - **Don't:** use skeletons for sub-300ms loads (flash of skeleton is noise) or mix spinners and skeletons in the same view.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/skeleton-loading.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/skeleton-loading.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/skeleton-loading)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

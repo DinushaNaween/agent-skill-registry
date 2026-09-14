@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/destructive-actions
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-17'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-07-17'
 - **Don't:** Place destructive buttons where the confirm button usually sits.
 - **Don't:** Rely on a generic 'Are you sure?' dialog that nobody actually reads.
 - **Don't:** Spread red across logout, badges, and alerts until delete looks routine.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/destructive-actions.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/destructive-actions.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/destructive-actions)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

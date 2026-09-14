@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.navigation.tabs-system
 - ui-ux.navigation.pagination
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/focus-states
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-03'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-07-03'
 - **Don't:** Setoutline: nonewithout shipping a visible replacement
 - **Don't:** Reorder content with CSS and let the DOM order drift from the visual order
 - **Don't:** Let a modal leak focus to the page behind it, or drop focus when it closes
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/focus-states.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/focus-states.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/focus-states)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

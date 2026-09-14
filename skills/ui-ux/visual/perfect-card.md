@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.charts-that-lie
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/perfect-card
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-03-15'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-03-15'
 - **Do:** Give the card a hover lift (~8px up, slight scale, deeper shadow) so it feels interactive.
 - **Don't:** Cram content against the edges with tiny padding and near-zero border-radius — it reads as an unstyled default.
 - **Don't:** Give the title and body the same weight and full opacity, so nothing guides the eye.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/perfect-card.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/perfect-card.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/perfect-card)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

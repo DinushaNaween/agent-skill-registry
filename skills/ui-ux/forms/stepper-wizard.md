@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.forms.autosave-ux
 - ui-ux.forms.date-pickers
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/stepper-wizard
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-07-08'
 - **Don't:** Surface a step-one error only once the user reaches the final step.
 - **Don't:** Let a refresh or the Back button discard everything already typed.
 - **Don't:** Stack twelve fields into one scrolling wall when they can be chunked into steps.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/stepper-wizard.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/stepper-wizard.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/stepper-wizard)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

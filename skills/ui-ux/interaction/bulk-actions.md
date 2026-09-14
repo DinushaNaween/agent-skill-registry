@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.disabled-buttons
 - ui-ux.interaction.hover-trap
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/bulk-actions
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-08-09'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-08-09'
 - **Don't:** Ship a two-state header checkbox that skips the indeterminate dash.
 - **Don't:** Label bulk selection with a vague 'all' that hides how many rows you touched.
 - **Don't:** Store the selection in the DOM, where it silently resets the moment someone changes page.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/bulk-actions.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/bulk-actions.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/bulk-actions)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

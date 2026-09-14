@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.forms.autosave-ux
 - ui-ux.forms.date-pickers
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/password-field-ux
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-10'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-06-10'
 - **Don't:** Hide the rules until after submit, then punish with red errors
 - **Don't:** Treat a capital-and-symbol checkbox as proof of real strength
 - **Don't:** Block paste or force users to retype long passwords manually
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/password-field-ux.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/password-field-ux.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/password-field-ux)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

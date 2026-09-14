@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.content.serial-position
 - ui-ux.content.microcopy
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/landing-page-skeleton
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-04-12'
 ---
 
@@ -58,12 +57,9 @@ last_updated: '2026-04-12'
 - **Don't:** Use carousels or sliders in the hero — they hide the one message that matters
 - **Don't:** Bury social proof at the bottom of the page where nobody scrolls to it
 - **Don't:** Jump straight to the solution before establishing the pain it solves
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/landing-page-skeleton.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/landing-page-skeleton.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/landing-page-skeleton)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

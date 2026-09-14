@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.forms.autosave-ux
 - ui-ux.forms.date-pickers
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/file-upload-ux
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-10'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-06-10'
 - **Don't:** Rely on a spinner that hides how far along the upload really is
 - **Don't:** Force users to re-select and start over after a failed upload
 - **Don't:** Treat a bare filename as confirmation the right file arrived
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/file-upload-ux.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/file-upload-ux.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/file-upload-ux)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

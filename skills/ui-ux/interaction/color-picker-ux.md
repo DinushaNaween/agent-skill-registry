@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/color-picker-ux
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-10'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-06-10'
 - **Do:** Validate contrast live while picking, with a badge that reads red or green
 - **Don't:** Preview alpha only on white — a checkerboard reveals the true transparency
 - **Don't:** Ship a bare gradient-and-slider picker with no memory, contrast check, or palette output
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/color-picker-ux.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/color-picker-ux.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/color-picker-ux)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

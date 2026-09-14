@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.charts-that-lie
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/dark-mode
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-03-24'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-03-24'
 - **Don't:** Use pure black (#000000) as the background — it flattens elevation and hides shadows.
 - **Don't:** Ship fully saturated accent colors — they buzz and read as cheap on dark UI.
 - **Don't:** Set text to pure white (#FFFFFF) — the glare fatigues the eyes over time.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/dark-mode.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/dark-mode.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/dark-mode)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.charts-that-lie
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/border-radius
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-03-24'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-03-24'
 - **Don't:** Pick radius values at random for each component.
 - **Don't:** Nest a rounded card inside another without adjusting the inner corner.
 - **Don't:** Mix a playful, oversized radius into a brand meant to feel serious — or the reverse.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/border-radius.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/border-radius.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/border-radius)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

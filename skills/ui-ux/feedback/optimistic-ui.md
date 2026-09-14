@@ -22,9 +22,8 @@ related_skills:
 - ui-ux.feedback.error-states
 - ui-ux.feedback.loading-states-system
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/optimistic-ui
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-26'
 ---
 
@@ -54,12 +53,9 @@ last_updated: '2026-06-26'
 - **Do:** Apply it to reversible interactions like likes, favorites, and list reordering.
 - **Don't:** Use it for payments, transfers, or anything you can't safely undo.
 - **Don't:** Show a charge, booking, or confirmation before the server has actually cleared it.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/optimistic-ui.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/optimistic-ui.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/optimistic-ui)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

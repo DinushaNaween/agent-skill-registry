@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.design-system-kit
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/charts-that-lie
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Don't:** Truncate or crop an axis to exaggerate small differences.
 - **Don't:** Add gridlines, shadows, or 3D effects that encode no data.
 - **Don't:** Reach for a pie chart when you have more than five slices.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/charts-that-lie.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/charts-that-lie.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/charts-that-lie)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

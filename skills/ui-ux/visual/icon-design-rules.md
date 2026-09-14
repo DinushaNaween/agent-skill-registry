@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.charts-that-lie
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/icon-design-rules
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-04-25'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-04-25'
 - **Don't:** Size icons by raw math — equal boxes make round shapes look small
 - **Don't:** Mix fill and outline styles at random; commit to one strategy for the set
 - **Don't:** Let icons float at loose sizes — inconsistent bounding boxes make toolbars unreadable
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/icon-design-rules.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/icon-design-rules.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/icon-design-rules)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

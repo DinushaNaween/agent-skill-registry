@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.charts-that-lie
 - ui-ux.visual.design-system-kit
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/de-ai-landing-hero
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-09-07'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-09-07'
 - **Don't:** Fill the headline with adjectives like supercharge, seamless, or powerful.
 - **Don't:** Place two identical buttons side by side.
 - **Don't:** Ship the icon-in-a-circle feature row with one-word labels.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/de-ai-landing-hero.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/de-ai-landing-hero.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/de-ai-landing-hero)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

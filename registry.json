@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-09-14 16:05:29",
+  "last_updated": "2026-09-14 16:54:19",
   "total_skills": 102,
   "domains": [
     "security",
@@ -902,9 +902,8 @@
         "ui-ux.content.landing-page-skeleton"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/empty-states",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/content/empty-states.md"
@@ -938,9 +937,8 @@
         "ui-ux.content.microcopy"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/landing-page-skeleton",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-04-12",
       "relative_path": "skills/ui-ux/content/landing-page-skeleton.md"
@@ -972,9 +970,8 @@
         "ui-ux.content.landing-page-skeleton"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/microcopy",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-26",
       "relative_path": "skills/ui-ux/content/microcopy.md"
@@ -1007,9 +1004,8 @@
         "ui-ux.content.landing-page-skeleton"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/serial-position",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/content/serial-position.md"
@@ -1042,9 +1038,8 @@
         "ui-ux.feedback.notification-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/doherty-threshold",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/feedback/doherty-threshold.md"
@@ -1077,9 +1072,8 @@
         "ui-ux.feedback.notification-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/error-states",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/feedback/error-states.md"
@@ -1113,9 +1107,8 @@
         "ui-ux.feedback.notification-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/loading-states-system",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/feedback/loading-states-system.md"
@@ -1148,9 +1141,8 @@
         "ui-ux.feedback.loading-states-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/notification-system",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/feedback/notification-system.md"
@@ -1182,9 +1174,8 @@
         "ui-ux.feedback.loading-states-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/optimistic-ui",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-26",
       "relative_path": "skills/ui-ux/feedback/optimistic-ui.md"
@@ -1217,9 +1208,8 @@
         "ui-ux.feedback.loading-states-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/skeleton-loading",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-15",
       "relative_path": "skills/ui-ux/feedback/skeleton-loading.md"
@@ -1252,9 +1242,8 @@
         "ui-ux.feedback.loading-states-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/toast-notifications",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/feedback/toast-notifications.md"
@@ -1286,9 +1275,8 @@
         "ui-ux.feedback.loading-states-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/undo-ux",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-03",
       "relative_path": "skills/ui-ux/feedback/undo-ux.md"
@@ -1321,9 +1309,8 @@
         "ui-ux.feedback.loading-states-system"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/zeigarnik-effect",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/feedback/zeigarnik-effect.md"
@@ -1355,9 +1342,8 @@
         "ui-ux.forms.form-field-states"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/autosave-ux",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-26",
       "relative_path": "skills/ui-ux/forms/autosave-ux.md"
@@ -1390,9 +1376,8 @@
         "ui-ux.forms.form-field-states"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/date-pickers",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/forms/date-pickers.md"
@@ -1425,9 +1410,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/file-upload-ux",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-10",
       "relative_path": "skills/ui-ux/forms/file-upload-ux.md"
@@ -1461,9 +1445,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/form-field-states",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/forms/form-field-states.md"
@@ -1497,9 +1480,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/form-validation-timing",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-26",
       "relative_path": "skills/ui-ux/forms/form-validation-timing.md"
@@ -1532,9 +1514,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/input-masking",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/forms/input-masking.md"
@@ -1567,9 +1548,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/otp-input",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-08",
       "relative_path": "skills/ui-ux/forms/otp-input.md"
@@ -1602,9 +1582,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/password-field-ux",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-10",
       "relative_path": "skills/ui-ux/forms/password-field-ux.md"
@@ -1637,9 +1616,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/range-sliders",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/forms/range-sliders.md"
@@ -1672,9 +1650,8 @@
         "ui-ux.forms.form-field-states"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/settings-system",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-29",
       "relative_path": "skills/ui-ux/forms/settings-system.md"
@@ -1707,9 +1684,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/stepper-wizard",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/forms/stepper-wizard.md"
@@ -1742,9 +1718,8 @@
         "ui-ux.forms.date-pickers"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/toggle-anatomy",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/forms/toggle-anatomy.md"
@@ -1777,9 +1752,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/accordion-disclosure",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-02",
       "relative_path": "skills/ui-ux/interaction/accordion-disclosure.md"
@@ -1813,9 +1787,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/behind-the-button",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-31",
       "relative_path": "skills/ui-ux/interaction/behind-the-button.md"
@@ -1848,9 +1821,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/bottom-sheets",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-26",
       "relative_path": "skills/ui-ux/interaction/bottom-sheets.md"
@@ -1883,9 +1855,8 @@
         "ui-ux.interaction.hover-trap"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/bulk-actions",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-08-09",
       "relative_path": "skills/ui-ux/interaction/bulk-actions.md"
@@ -1918,9 +1889,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/color-picker-ux",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-10",
       "relative_path": "skills/ui-ux/interaction/color-picker-ux.md"
@@ -1953,9 +1923,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/command-palette",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-08",
       "relative_path": "skills/ui-ux/interaction/command-palette.md"
@@ -1988,9 +1957,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/context-menu",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-14",
       "relative_path": "skills/ui-ux/interaction/context-menu.md"
@@ -2024,9 +1992,8 @@
         "ui-ux.interaction.hover-trap"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/css-has-selector",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-09-07",
       "relative_path": "skills/ui-ux/interaction/css-has-selector.md"
@@ -2059,9 +2026,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/data-table",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-05-29",
       "relative_path": "skills/ui-ux/interaction/data-table.md"
@@ -2094,9 +2060,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/destructive-actions",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-17",
       "relative_path": "skills/ui-ux/interaction/destructive-actions.md"
@@ -2129,9 +2094,8 @@
         "ui-ux.interaction.hover-trap"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/disabled-buttons",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-08-07",
       "relative_path": "skills/ui-ux/interaction/disabled-buttons.md"
@@ -2165,9 +2129,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/drag-and-drop",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/interaction/drag-and-drop.md"
@@ -2200,9 +2163,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/dropdown-design",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/interaction/dropdown-design.md"
@@ -2235,9 +2197,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/filter-chips",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-08",
       "relative_path": "skills/ui-ux/interaction/filter-chips.md"
@@ -2270,9 +2231,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/hover-trap",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-08-05",
       "relative_path": "skills/ui-ux/interaction/hover-trap.md"
@@ -2305,9 +2265,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/inline-editing",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-23",
       "relative_path": "skills/ui-ux/interaction/inline-editing.md"
@@ -2340,9 +2299,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/live-cursors",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-20",
       "relative_path": "skills/ui-ux/interaction/live-cursors.md"
@@ -2375,9 +2333,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/modal-hierarchy",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-04-30",
       "relative_path": "skills/ui-ux/interaction/modal-hierarchy.md"
@@ -2411,9 +2368,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/peak-end-rule",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/interaction/peak-end-rule.md"
@@ -2447,9 +2403,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/search-experience-system",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/interaction/search-experience-system.md"
@@ -2482,9 +2437,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/star-rating",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/interaction/star-rating.md"
@@ -2517,9 +2471,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/swipe-actions",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-03",
       "relative_path": "skills/ui-ux/interaction/swipe-actions.md"
@@ -2552,9 +2505,8 @@
         "ui-ux.interaction.disabled-buttons"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/tooltip-design",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/interaction/tooltip-design.md"
@@ -2587,9 +2539,8 @@
         "ui-ux.motion.scroll-driven-animations"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/animation-timing",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/motion/animation-timing.md"
@@ -2623,9 +2574,8 @@
         "ui-ux.motion.scroll-driven-animations"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/card-hover-anatomy",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-05-16",
       "relative_path": "skills/ui-ux/motion/card-hover-anatomy.md"
@@ -2657,9 +2607,8 @@
         "ui-ux.motion.scroll-driven-animations"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/easing-curves",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/motion/easing-curves.md"
@@ -2693,9 +2642,8 @@
         "ui-ux.motion.card-hover-anatomy"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/scroll-driven-animations",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-04-12",
       "relative_path": "skills/ui-ux/motion/scroll-driven-animations.md"
@@ -2728,9 +2676,8 @@
         "ui-ux.navigation.pagination"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/focus-states",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-03",
       "relative_path": "skills/ui-ux/navigation/focus-states.md"
@@ -2762,9 +2709,8 @@
         "ui-ux.navigation.pagination"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/navigation-patterns",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/navigation/navigation-patterns.md"
@@ -2796,9 +2742,8 @@
         "ui-ux.navigation.focus-states"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/pagination",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-08",
       "relative_path": "skills/ui-ux/navigation/pagination.md"
@@ -2831,9 +2776,8 @@
         "ui-ux.navigation.pagination"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/tabs-system",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/navigation/tabs-system.md"
@@ -2866,9 +2810,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/border-radius",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-03-24",
       "relative_path": "skills/ui-ux/visual/border-radius.md"
@@ -2901,9 +2844,8 @@
         "ui-ux.visual.design-system-kit"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/charts-that-lie",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/visual/charts-that-lie.md"
@@ -2936,9 +2878,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/color-accessibility",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-04-03",
       "relative_path": "skills/ui-ux/visual/color-accessibility.md"
@@ -2971,9 +2912,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/dark-mode",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-03-24",
       "relative_path": "skills/ui-ux/visual/dark-mode.md"
@@ -3006,9 +2946,8 @@
         "ui-ux.visual.design-system-kit"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/de-ai-landing-hero",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-09-07",
       "relative_path": "skills/ui-ux/visual/de-ai-landing-hero.md"
@@ -3041,9 +2980,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/depth-layers",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-03-10",
       "relative_path": "skills/ui-ux/visual/depth-layers.md"
@@ -3077,9 +3015,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/design-system-kit",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/visual/design-system-kit.md"
@@ -3112,9 +3049,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/design-tokens",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-04-07",
       "relative_path": "skills/ui-ux/visual/design-tokens.md"
@@ -3147,9 +3083,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/gestalt-laws",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-03-28",
       "relative_path": "skills/ui-ux/visual/gestalt-laws.md"
@@ -3182,9 +3117,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/golden-ratio",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/visual/golden-ratio.md"
@@ -3217,9 +3151,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/gradient-design",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-06-22",
       "relative_path": "skills/ui-ux/visual/gradient-design.md"
@@ -3252,9 +3185,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/grid-system",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/visual/grid-system.md"
@@ -3288,9 +3220,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/icon-design-rules",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-04-25",
       "relative_path": "skills/ui-ux/visual/icon-design-rules.md"
@@ -3323,9 +3254,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/perfect-card",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-03-15",
       "relative_path": "skills/ui-ux/visual/perfect-card.md"
@@ -3357,9 +3287,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/proximity-rule",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/visual/proximity-rule.md"
@@ -3393,9 +3322,8 @@
         "ui-ux.visual.design-system-kit"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/reverse-engineered-linear",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-09-07",
       "relative_path": "skills/ui-ux/visual/reverse-engineered-linear.md"
@@ -3428,9 +3356,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/shadow-elevation",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/visual/shadow-elevation.md"
@@ -3462,9 +3389,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/visual-hierarchy",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/visual/visual-hierarchy.md"
@@ -3497,9 +3423,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/von-restorff",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-03-24",
       "relative_path": "skills/ui-ux/visual/von-restorff.md"
@@ -3532,9 +3457,8 @@
         "ui-ux.visual.charts-that-lie"
       ],
       "source": {
-        "name": "designmotionhq",
-        "url": "https://www.designmotionhq.com/patterns/z-index-mastery",
-        "instagram_url": "https://www.instagram.com/designmotionhq/"
+        "name": "web-ui-patterns",
+        "category": "design-pattern-library"
       },
       "last_updated": "2026-07-08",
       "relative_path": "skills/ui-ux/visual/z-index-mastery.md"

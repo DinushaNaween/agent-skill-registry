@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/live-cursors
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-20'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-20'
 - **Don't:** Render cursors at the raw server tick rate, which makes them jump between points.
 - **Don't:** Assign colors randomly per session, which resets identity every time someone rejoins.
 - **Don't:** Allow two users to edit the same element at once.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/live-cursors.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/live-cursors.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/live-cursors)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

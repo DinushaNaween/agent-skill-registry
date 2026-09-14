@@ -22,9 +22,8 @@ related_skills:
 - ui-ux.content.serial-position
 - ui-ux.content.landing-page-skeleton
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/microcopy
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-26'
 ---
 
@@ -55,12 +54,9 @@ last_updated: '2026-06-26'
 - **Do:** Fill empty states with the first useful action, not a blank screen
 - **Don't:** Rely on placeholder text as a stand-in for a persistent field label
 - **Don't:** Ship system-speak like "Invalid input" or "operation failed"
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/microcopy.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/microcopy.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/microcopy)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

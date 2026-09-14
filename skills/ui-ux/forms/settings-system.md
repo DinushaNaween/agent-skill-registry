@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.forms.date-pickers
 - ui-ux.forms.form-field-states
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/settings-system
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-29'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-07-29'
 - **Don't:** Pour every option into one flat list ordered by your schema.
 - **Don't:** Let irreversible actions fire on a single unguarded click.
 - **Don't:** Bury settings in nested menus when a search box would find them instantly.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/settings-system.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/settings-system.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/settings-system)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

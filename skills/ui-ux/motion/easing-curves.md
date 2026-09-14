@@ -22,9 +22,8 @@ related_skills:
 - ui-ux.motion.card-hover-anatomy
 - ui-ux.motion.scroll-driven-animations
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/easing-curves
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -54,12 +53,9 @@ last_updated: '2026-07-08'
 - **Do:** Stagger card and list entrances a few frames apart for a cascade instead of a single hard snap.
 - **Don't:** Reach for linear easing on UI that starts and stops — it reads as mechanical and cheap.
 - **Don't:** Push spring stiffness or bounce so high the element wobbles; a little overshoot sells premium, too much feels broken.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/easing-curves.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/easing-curves.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/easing-curves)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

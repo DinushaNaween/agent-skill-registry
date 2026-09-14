@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.charts-that-lie
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/gestalt-laws
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-03-28'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-03-28'
 - **Do:** Wrap loosely-placed elements in a bordered card when proximity alone can't group them.
 - **Don't:** Scatter navigation or list items at varied angles and positions — the eye jumps and nothing reads as connected.
 - **Don't:** Lean on a modal alone without dimming what's behind it; it competes with the background instead of standing out.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/gestalt-laws.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/gestalt-laws.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/gestalt-laws)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

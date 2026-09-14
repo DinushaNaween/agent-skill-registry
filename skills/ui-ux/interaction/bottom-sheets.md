@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/bottom-sheets
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-26'
 ---
 
@@ -57,12 +56,9 @@ last_updated: '2026-06-26'
 - **Don't:** Bury frequent menus in the top-right dead zone on tall phones
 - **Don't:** Block the whole screen with a full modal when a sheet would do
 - **Don't:** Leave the background scrollable while the sheet is open
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/bottom-sheets.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/bottom-sheets.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/bottom-sheets)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

@@ -22,9 +22,8 @@ related_skills:
 - ui-ux.navigation.focus-states
 - ui-ux.navigation.pagination
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/navigation-patterns
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-08'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-07-08'
 - **Don't:** Hide primary navigation in a hamburger — engagement drops 40-56%.
 - **Don't:** Make a command palette the only path to a feature; new users won't discover it.
 - **Don't:** Add breadcrumbs to a flat structure where they're just visual noise.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/navigation-patterns.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/navigation-patterns.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/navigation-patterns)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

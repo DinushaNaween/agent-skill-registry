@@ -24,9 +24,8 @@ related_skills:
 - ui-ux.forms.autosave-ux
 - ui-ux.forms.date-pickers
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/form-validation-timing
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-26'
 ---
 
@@ -56,12 +55,9 @@ last_updated: '2026-06-26'
 - **Do:** Confirm correct fields with a green check, not just flag the broken ones.
 - **Don't:** Hold every error until submit and reveal them all at once.
 - **Don't:** Fire red errors on each keystroke before the user finishes typing.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/form-validation-timing.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/form-validation-timing.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/form-validation-timing)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

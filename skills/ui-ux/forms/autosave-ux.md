@@ -22,9 +22,8 @@ related_skills:
 - ui-ux.forms.date-pickers
 - ui-ux.forms.form-field-states
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/autosave-ux
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-26'
 ---
 
@@ -55,12 +54,9 @@ last_updated: '2026-07-26'
 - **Don't:** Let the pill show 'Saved' when the change never reached the server.
 - **Don't:** Overwrite a concurrent edit silently; merge the changes or warn instead.
 - **Don't:** Let a tab close on unsaved work without a confirmation dialog.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/autosave-ux.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/autosave-ux.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/autosave-ux)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

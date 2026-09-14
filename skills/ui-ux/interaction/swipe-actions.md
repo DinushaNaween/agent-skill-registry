@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.interaction.bulk-actions
 - ui-ux.interaction.disabled-buttons
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/swipe-actions
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-07-03'
 ---
 
@@ -51,12 +50,9 @@ last_updated: '2026-07-03'
 
 - **Do:** pair each swipe action with an undo window, and keep left/right semantics consistent app-wide.
 - **Don't:** hide more than two actions per side — beyond that, users can't build muscle memory.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/swipe-actions.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/swipe-actions.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/swipe-actions)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 

@@ -23,9 +23,8 @@ related_skills:
 - ui-ux.visual.reverse-engineered-linear
 - ui-ux.visual.charts-that-lie
 source:
-  name: designmotionhq
-  url: https://www.designmotionhq.com/patterns/gradient-design
-  instagram_url: https://www.instagram.com/designmotionhq/
+  name: web-ui-patterns
+  category: design-pattern-library
 last_updated: '2026-06-22'
 ---
 
@@ -51,12 +50,9 @@ last_updated: '2026-06-22'
 
 - **Do:** stay within 60° of hue travel, add 2–3% noise, and test on a low-quality screen.
 - **Don't:** put body text directly on a gradient's mid-transition zone — contrast is unpredictable there.
-## Media & References
+## References
 
-- **Demo Video:** [Watch MP4 Breakdown](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/videos/gradient-design.mp4)
-- **Thumbnail:** [Visual Preview](https://pub-8b35602514014e9aa3363da6c7b5416c.r2.dev/thumbs/gradient-design.jpg)
-- **Original Pattern:** [designmotionhq](https://www.designmotionhq.com/patterns/gradient-design)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/designmotionhq/)
+- Modern Web UI/UX Design Patterns & Standards
 
 ## Related Skills
 
